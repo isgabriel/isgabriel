@@ -1,11 +1,11 @@
 <!-- ## Oii eu sou Gabriel Montenegro, desenvolvedor frontend em formação! -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27AE60&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AD4D6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=27AE60&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Montenegro;I'm+21+years+old;I'm+from+Brazil;I'm+frontend+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AD4D6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Montenegro;I'm+21+years+old;I'm+from+Brazil;I'm+frontend+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="160em" src="https://github-readme-stats.vercel.app/api?username=isgabriel&show_icons=true&count_private=true&hide_border=true&title_color=27AE60&icon_color=27AE60&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Montenegro github stats" /> 
-  <img width="41%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgabriel&layout=compact&hide_border=true&title_color=27AE60&text_color=27AE60&bg_color=0d1117" />
+  <img width="49%" height="160em" src="https://github-readme-stats.vercel.app/api?username=isgabriel&show_icons=true&count_private=true&hide_border=true&title_color=9AD4D6&icon_color=9AD4D6&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Montenegro github stats" /> 
+  <img width="41%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgabriel&layout=compact&hide_border=true&title_color=9AD4D6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <!--
 <div align="center">
@@ -39,4 +39,4 @@
 
 ![Snake animation](https://github.com/isgabriel/isgabriel/blob/output/github-contribution-grid-snake.svg)
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27AE60&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9AD4D6&height=120&section=footer"/>
