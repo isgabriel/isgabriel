@@ -1,24 +1,34 @@
-## Oii eu sou Gabriel Montenegro, desenvolvedor frontend em formação!
+<!-- ## Oii eu sou Gabriel Montenegro, desenvolvedor frontend em formação! -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27AE60&height=120&section=header"/>
 
-<!-- 🔭 I’m currently working on ... -->
-- 🌱 Estudando Javascript
-- 😄 Pronouns: ele/dele
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=27AE60&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Montenegro;I'm+21+years+old;I'm+from+Brazil;I'm+frontend+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isgabriel&show_icons=true&count_private=true&hide_border=true&title_color=27AE60&icon_color=27AE60&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Montenegro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgabriel&layout=compact&hide_border=true&title_color=27AE60&text_color=27AE60&bg_color=0d1117" />
+</div>
+<!--
 <div align="center">
   <a href="https://github.com/isgabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isgabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgabriel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" width="42%" src="https://github-readme-stats.vercel.app/api?username=isgabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isgabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
 
+### Main skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-  <img align="center" alt="gab-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  
+  <img align="center" alt="gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <span>HTML</span>
+  <img align="center" alt="gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><span>CSS</span>
+  <img align="center" alt="gab-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"><span>C</span>
+  <img align="center" alt="gab-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"><span>Java</span>
+  <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><span>Javascript</span>
 </div>
 
+### Studying in this moment:
+<div style="display: inline_block"><br>
+  <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><span>Javascript</span>
+  </div>
+  
 ##
 
 <div> 
@@ -28,3 +38,5 @@
 </div>
 
 ![Snake animation](https://github.com/isgabriel/isgabriel/blob/output/github-contribution-grid-snake.svg)
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27AE60&height=120&section=footer"/>
