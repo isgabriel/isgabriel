@@ -39,4 +39,4 @@
 
 ![Snake animation](https://github.com/isgabriel/isgabriel/blob/output/github-contribution-grid-snake.svg)
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9bcdcc&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bcfffe&height=120&section=footer"/>
